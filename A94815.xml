@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Treasons by the laws of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94815</idno>
+            <idno type="STC">Wing T2084</idno>
+            <idno type="STC">Thomason 669.f.26[60]</idno>
+            <idno type="EEBO-CITATION">99869672</idno>
+            <idno type="PROQUEST">99869672</idno>
+            <idno type="VID">163942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163942)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f26[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Treasons by the laws of England</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Norton, for Robert Pawley at the Rain-Bow in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660. [i.e. 1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163942:1" rendition="simple:additions"/>
+            <head>TREASONS
+BY THE
+LAWS of ENGLAND.</head>
+            <p>WHereas many Perſons of late have Tranſgreſſed againſt the <hi>Laws of the Land</hi> by open violence,
+and committed Treaſon and Murther under the notion of Liberty of Conſcience, and pretence
+of reforming Religion: and to the end that Offenders in the like (and other caſes) may not
+plead ignorance of the ſaid Laws eſtabliſhed and confirmed by many Acts of Parliament, it
+hath been thought neceſſary to publiſh a brief Collection of what is <hi>Treaſon by Law,</hi> that ſo all being inform<g ref="char:EOLhyphen"/>ed
+thereof, no Perſon may unadviſedly fall into danger.</p>
+            <div type="statute">
+               <head>By the Statute of 25. of EdWard the 3. Cap. 2.</head>
+               <p>
+                  <hi>Firſt,</hi>
+                  <note place="margin">Cooke lib. 9. fol. 28. Dyer fol. 98. 1. Edw. 3. fol. 24. Brooks Trea<g ref="char:EOLhyphen"/>ſons 1, 2. C.</note> To Compaſs or Imagine the death of our Soveraign Lord the King, Queen or Prince, or of any that is Heire Apparent to
+the Crown, <hi>it is High Treaſon.</hi>
+               </p>
+               <p>
+                  <hi>Note,</hi> That by the Common Law before and at the time of making this Statute: If a man had only imagined to Murder or Rob another, and to
+that end had aſſaulted him, though he killed him not, nor took any thing from him, yet was it Felony and to ſuffer death, as in theſe two Caſes following.</p>
+               <p>A mans Wife went away with her Avowterer, and they compaſſed the death of her Husband, and as he was riding towards the Seſſions of Oyer and
+Terminer and Goal delivery,<note place="margin">Cookes Pleas Crown. fol. 5.</note> they aſſaulted him and ſtrooke him with weapons that he fell down as dead, whereupon they fled, the Husband recovered,
+and made Hue and Cry, and came to the Seſſions, and ſhewed all this matter to the Juſtices, and upon the Warrant of the Juſtices they were taken,
+indicted and arraigned, and all this ſpecial matter was found by Verdict, and it was adjudged that the man ſhould be hanged, and the woman burnt.</p>
+               <p>In another Caſe a Youth was arraigned for that he would have ſtolen the goods of his Maſter, and came to his Maſters Bed, where he lay a ſleep, and
+with a knife attempted with all his force to have cut his Throat, and thinking that he had indeed cut it, he fled, and all this matter being found by ſpe<g ref="char:EOLhyphen"/>cial
+Verdict, he was adjudged to be hanged. <hi>Quia voluntas reputabitur pro facto,</hi> the will being taken for the deed. <hi>Cooks Pleas of the Crown</hi> fol. 5.</p>
+               <p>If then to imagine only the death of a Subject be Felony, with much Equity then have our Laws made it Treaſon to compaſs or imagine the death of the
+King, who is the life and light of the Commonwealth, <hi>&amp;c.</hi> without whom all things run into confuſion, as hath been too too wofully experienced of late.</p>
+               <p>Secondly, <hi>To Levy War againſt the King,</hi> &amp;c. in the Realm, and proved by ſome overt act, as to incite by Letters againſt the King, or to
+provide weapons and the like, it is High Treaſon: For no Subject ought to levy War within the Realm without authority from the King, for to
+him it only belongeth, <hi>Stat. 25. Ed. 3. Bract. Lib. 3. fol. 118. Britt. fol. 16. Fleta Lib. 1. cap. 21. F. N. B.</hi> 113. a. <hi>Inſt. 3. fol.</hi> 12.</p>
+               <p>So that if many conſpire to levy War, and ſome of them do levy the ſame, or appear in Arms according to the conſpiracy, this is High
+Treaſon in all, for in Treaſon all be Principals, and the War is ſaid to be levyed by ſuch a conſpiracy. <hi>Cooks Pleas</hi> 9. pag.</p>
+               <p>If any with ſtrength and weapons, invaſive or defenſive do hold and defend any Caſtle, Fort or the like, againſt the King and his Power, this
+is levying of War againſt the King, and ſo is High Treaſon. 3. <hi>Inſt. pag. 9. &amp;</hi> 10.</p>
+               <p>If any levy War to expulſe ſtrangers, or to deliver men out of Priſon, it is High Treaſon. <hi>Inſt. 3. fol.</hi> 9.</p>
+               <p>To Uſurp the Royal Power is High Treaſon.</p>
+               <p>To raiſe force, to remove Counſellors from the King is High Treaſon.</p>
+               <p>To alter the Eſtabliſhed Laws by force in any part is High Treaſon.</p>
+               <p>To indeavour by force to any pretended Reformation, is a levying of War againſt the King, becauſe they take upon them Royal Authority,
+which is againſt the King, and ſo is High Treaſon, 3. <hi>Inſt. pag.</hi> 9.</p>
+               <p>If two, three or more do riſe purpoſely to alter Religion eſtabliſhed within this Realm, or any Law, or to go from Town to Town generally,
+and to caſt down Incloſures, this is a levying of War within the Statute, (though there be no great number of the Conſpirators) becauſe the
+pretence is publick and general; and ſo it was adjudged by all the Judges of <hi>England, Cooks Pleas fol. 9. &amp;</hi> 10.</p>
+               <p>It was reſolved alſo by all the Judges in the Raign of King <hi>Henry</hi> the Eighth, that an Inſurrection againſt the Statute of Labourers, for the in<g ref="char:EOLhyphen"/>hancing
+of Salaries and Wages was a levying of War againſt the King, becauſe it was generally againſt the Kings Laws, and the Offenders
+took upon them the Reformation thereof, which Subjects by gathering of Power ought not to do <hi>Vide Cooks Pleas.</hi> Title High Treaſon. 3. <hi>Inſt. 10. pag.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <note place="margin">Brooks Trea<g ref="char:EOLhyphen"/>ſons. 1. &amp; 13. Fitz. Tryal. 54. <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3. ca. 2.</note> To be adherent to the Kings Enemies, <hi>is High Treaſon.</hi>
+               </p>
+               <p>As to be Aider, Comforter or Aſſiſtant, either within the Realm or elſewhere.</p>
+               <p>The Delivery or Surrender of the Kings Caſtles, Forts, or the like, to the Kings Enemies, either within the Realm or without, is an adhe<g ref="char:EOLhyphen"/>ring
+to the Kings Enemies, and ſo it is High Treaſon, <hi>Rot. Parl. 7. R. 2. num. 15, 17. 24. 7. H.</hi> 4. 47.</p>
+               <p>Where a man procureth or conſenteth to Treaſon, it is Treaſon.</p>
+               <p>Where a Jaylor doth voluntarily permit a man committed for Treaſon to eſcape, it is Treaſon.</p>
+               <p>Where a man relieveth or comforteth a Traytor, knowing of the offence, it is Treaſon, 3. <hi>Inſt. 129. pag.</hi> And knowing of Treaſon hereby,
+without aiding or concealing the Traytor, is Miſpriſion of Treaſon, and to ſuffer Impriſonment during life.</p>
+               <p>
+                  <hi>Fourthly,</hi> To Violate the Kings Wife, the Kings Eldeſt Daughter unmarried, the Wife of the Kings Eldeſt Son and Heire Appa<g ref="char:EOLhyphen"/>rent,
+<hi>it is High Treaſon.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> The Counterfeiting of the Kings Coine without utterance thereof, <hi>it is High Treaſon, <hi>Stamf.</hi> 3. c.</hi>
+               </p>
+               <p>If any bring falſe Money into the Realm, or Counterfeit to the likeneſs of Engliſh Money, with intent to utter it, knowing it to be counterfeit,
+it is High Treaſon, 3. <hi>Inſt. 17. 1. &amp; 2. P. &amp; M.</hi> 11.</p>
+               <p>To Clip, Waſh, Round, File the Money of <hi>England,</hi> it is High Treaſon. 5. <hi>Eliz. cap.</hi> 11. Or to impaire, diminiſh, falſifie, ſcale, or lighten the
+Kings Money, by any wayes or means whatſoever, it is High Treaſon, 18. <hi>Eliz.</hi> 1.</p>
+               <p>
+                  <hi>Sixthly,</hi> To Counterfeit the Kings Great Seal, Privy Signet, Signe Manual, <hi>it is High Treaſon, 1. M.</hi> 6.</p>
+               <p>Seventhly, <hi>To kill the Chancellor, Treaſurer, Iuſtices</hi> of the one Bench, and the other, <hi>Iuſtices</hi> of Eyre, <hi>Iuſtices</hi> of Aſſize, <hi>Iuſtices</hi> of
+Oyer and Terminer, &amp;c. in their places performing their Offices, it is High Treaſon, and the reaſon is, becauſe ſitting judicially in their places,
+(that is in the Kings Courts) and doing their Office, in adminiſtration of Juſtice they repreſent the Kings Perſon, who by his Oath is bound that
+the ſame be done.</p>
+               <p>Laſtly, <hi>Maintaining or Extolling the Authority of the Biſhop or Sea of</hi> Rome, in the Kings Dominions, the ſecond offence, it is Treaſon,
+in obtaining of Bulls, or Inſtruments from It, &amp;c. is Treaſon, 13. <hi>Eliz. 2. 5. Cooks Pleas 2. 5. Eliz.</hi> 1.</p>
+               <p>Perſwading or reconciling, or for being reconciled to the Roman Religion, it is High Treaſon, 13. <hi>Eliz. 1. 3. Jac.</hi> 4.</p>
+               <p>Where any Jeſuite or any other Prieſt Ordained ſince the firſt year of the Reign of Queen <hi>Eliz.</hi> ſhall come into or remain in any part of this
+Realm, it is High Treaſon, 17. <hi>Eliz.</hi> 2.</p>
+               <p>Where any perſon brought up in a Colledge of Jeſuites, or Seminaries, and ſhall not return within ſix moneths after Proclamation made, or
+within two dayes after his return, ſubmit himſelf to take the Oath of Supremacy, it is High Treaſon, 27. <hi>Eliz.</hi> 2.</p>
+               <p>
+                  <hi>Note,</hi> That every man as ſoon as he is born oweth Legiance to the King in whoſe Realm he is born, and are obliged and bound as virtually by impli<g ref="char:EOLhyphen"/>cation
+of the Law, as if they had expreſly ſworn. The Law preſuming every one to be ſworn.</p>
+               <p>2. That the adminiſtring of the Oath of Allegiance at Court Leets to all perſons of 12. years of age, is to mind them of, and oblige them to their duty.</p>
+               <p>3. He that taketh an Oath to the preſent King, is obliged by that Oath to his Succeſſours, becauſe by the Laws of the Land the King never dies.</p>
+               <p>4. That the King is abſolute King before Coronation, for by the Laws of <hi>England</hi> there is no <hi>Inter-Regnum,</hi> and Coronation is but a Solemnity of
+Honour: and ſo it was adjudged by all the Judges of the Land, <hi>Hill. 1. Jacob.</hi> in the Caſe of <hi>Watſon</hi> and <hi>Clarke</hi> Seminary Prieſts, for by the Laws
+there is alwayes a King, in whoſe name the Laws are to be maintained and executed, otherwiſe Juſtice would fall. 9. <hi>Ed. 4. 1. b.</hi>
+               </p>
+               <p>5. That all perſons as well Eccleſiaſtical as Civil: As well of one Sex as the other, are lyable to the penalty of the Statute.</p>
+               <p>6. All men within the Realm of <hi>England,</hi> and whoſe Soveraigns are in amity with the King of <hi>England,</hi> are within the Protection of the King,
+and if they commit High Treaſon against the King, they ſhall be puniſhed as Traytors.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>Roger Norton,</hi> for <hi>Robert Pawley</hi> at the <hi>Rain-Bow</hi> in <hi>Fleetſtreet.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
